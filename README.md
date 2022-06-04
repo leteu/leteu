@@ -3,7 +3,7 @@
 ### Hi there 👋
 > I am **GyuHyeon Shin** a.k.a **leteu**.  
 > I live and work in Korea🇰🇷 as a web front-end developer.   
-><img src="http://mazandi.herokuapp.com/api?handle=leteu&theme=cold"/>
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leteu)](https://github.com/leteu/github-readme-stats)
 #
 
 # 📚 Skills
@@ -17,18 +17,21 @@
 
 #### Frameworks and Libraries
   ><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+  ><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   ><img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=Quasar&logoColor=white">
-  ><img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white">
   ><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white">
   ><img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=PostCSS&logoColor=white">
   ><img src="https://img.shields.io/badge/Apache ECharts-AA344D?style=for-the-badge&logo=Apache ECharts&logoColor=white">
   ><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+  ><img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white">
 
 #### Dev Tools
   ><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=white">
   ><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
   ><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
   ><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  ><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  ><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white">
 
 #### Workspace & Community
   ><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
@@ -45,3 +48,5 @@
 # 
 
 # 💼 Career
+* WooKyoung Information Technology [2021.01.04 ~ 2022.05.27]
+* Xenoplex [2022.06.01 ~ ]
