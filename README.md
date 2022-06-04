@@ -23,7 +23,6 @@
   ><img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=PostCSS&logoColor=white">
   ><img src="https://img.shields.io/badge/Apache ECharts-AA344D?style=for-the-badge&logo=Apache ECharts&logoColor=white">
   ><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-  ><img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white">
 
 #### Dev Tools
   ><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=white">
