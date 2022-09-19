@@ -56,4 +56,4 @@
 
 # 💼 Career
 * WooKyoung Information Technology [2021.01.04 ~ 2022.05.27]
-* Xenoplex [2022.06.01 ~ ]
+* DXWorks [2022.06.01 ~ ]
