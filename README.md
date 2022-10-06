@@ -3,7 +3,6 @@
 ### Hi there 👋
 > I am **GyuHyeon Shin** a.k.a **leteu**.  
 > I work in Korea🇰🇷 as a web front-end developer.   
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leteu)](https://github.com/leteu/github-readme-stats)
 #
 
 # 💼 Career
