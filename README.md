@@ -6,5 +6,6 @@
 #
 
 # 💼 Career
-* WooKyoung Information Technology [2021.01.04 ~ 2022.05.27]
-* DXWorks [2022.06.01 ~ ]
+* [WooKyoung Information Technology](https://www.wkit.co.kr/) [2021.01.04 ~ 2022.05.27]
+* [DXWorks](https://dxworks.kr/) [2022.06.01 ~ 2023.11.03]
+* [OSD](https://onesoftdigm.com/) [2023.11.06 ~ ]
