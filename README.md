@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 > I am **GyuHyeon Shin** a.k.a **leteu**.  
-> I work in Korea🇰🇷 as a web front-end developer.   
-#
+> Frontend Software Engineer working across mobile and web.   
+> React Native / React / TypeScript
 
 # 💼 Career
 * [WooKyoung Information Technology](https://sphereax.com/) [2021.01.04 ~ 2022.05.27]
